@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\feloe\\Desktop\\Clean Data\\RATProject\\True\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7160953-53CD-4E2D-9EF9-783DB9303F3D}|True.csproj|c:\\users\\feloe\\desktop\\clean data\\ratproject\\true\\core\\communicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7160953-53CD-4E2D-9EF9-783DB9303F3D}|True.csproj|solutionrelative:core\\communicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7160953-53CD-4E2D-9EF9-783DB9303F3D}|True.csproj|c:\\users\\feloe\\desktop\\clean data\\ratproject\\true\\core\\commanddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7160953-53CD-4E2D-9EF9-783DB9303F3D}|True.csproj|solutionrelative:core\\commanddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7160953-53CD-4E2D-9EF9-783DB9303F3D}|True.csproj|c:\\users\\feloe\\desktop\\clean data\\ratproject\\true\\clientregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7160953-53CD-4E2D-9EF9-783DB9303F3D}|True.csproj|solutionrelative:clientregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7160953-53CD-4E2D-9EF9-783DB9303F3D}|True.csproj|c:\\users\\feloe\\desktop\\clean data\\ratproject\\true\\features\\stealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7160953-53CD-4E2D-9EF9-783DB9303F3D}|True.csproj|solutionrelative:features\\stealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7160953-53CD-4E2D-9EF9-783DB9303F3D}|True.csproj|c:\\users\\feloe\\desktop\\clean data\\ratproject\\true\\features\\keylogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7160953-53CD-4E2D-9EF9-783DB9303F3D}|True.csproj|solutionrelative:features\\keylogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7160953-53CD-4E2D-9EF9-783DB9303F3D}|True.csproj|c:\\users\\feloe\\desktop\\clean data\\ratproject\\true\\features\\fileexplorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7160953-53CD-4E2D-9EF9-783DB9303F3D}|True.csproj|solutionrelative:features\\fileexplorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7160953-53CD-4E2D-9EF9-783DB9303F3D}|True.csproj|c:\\users\\feloe\\desktop\\clean data\\ratproject\\true\\features\\systeminforeporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7160953-53CD-4E2D-9EF9-783DB9303F3D}|True.csproj|solutionrelative:features\\systeminforeporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7160953-53CD-4E2D-9EF9-783DB9303F3D}|True.csproj|c:\\users\\feloe\\desktop\\clean data\\ratproject\\true\\features\\remoteshell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7160953-53CD-4E2D-9EF9-783DB9303F3D}|True.csproj|solutionrelative:features\\remoteshell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7160953-53CD-4E2D-9EF9-783DB9303F3D}|True.csproj|c:\\users\\feloe\\desktop\\clean data\\ratproject\\true\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7160953-53CD-4E2D-9EF9-783DB9303F3D}|True.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7160953-53CD-4E2D-9EF9-783DB9303F3D}|True.csproj|c:\\users\\feloe\\desktop\\clean data\\ratproject\\true\\core\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7160953-53CD-4E2D-9EF9-783DB9303F3D}|True.csproj|solutionrelative:core\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7160953-53CD-4E2D-9EF9-783DB9303F3D}|True.csproj|c:\\users\\feloe\\desktop\\clean data\\ratproject\\true\\core\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7160953-53CD-4E2D-9EF9-783DB9303F3D}|True.csproj|solutionrelative:core\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Communicator.cs",
+              "DocumentMoniker": "C:\\Users\\feloe\\Desktop\\Clean Data\\RATProject\\True\\Core\\Communicator.cs",
+              "RelativeDocumentMoniker": "Core\\Communicator.cs",
+              "ToolTip": "C:\\Users\\feloe\\Desktop\\Clean Data\\RATProject\\True\\Core\\Communicator.cs",
+              "RelativeToolTip": "Core\\Communicator.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAA2wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T17:57:54.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RemoteShell.cs",
+              "DocumentMoniker": "C:\\Users\\feloe\\Desktop\\Clean Data\\RATProject\\True\\Features\\RemoteShell.cs",
+              "RelativeDocumentMoniker": "Features\\RemoteShell.cs",
+              "ToolTip": "C:\\Users\\feloe\\Desktop\\Clean Data\\RATProject\\True\\Features\\RemoteShell.cs",
+              "RelativeToolTip": "Features\\RemoteShell.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA2wCoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T14:43:27.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConfigManager.cs",
+              "DocumentMoniker": "C:\\Users\\feloe\\Desktop\\Clean Data\\RATProject\\True\\Core\\ConfigManager.cs",
+              "RelativeDocumentMoniker": "Core\\ConfigManager.cs",
+              "ToolTip": "C:\\Users\\feloe\\Desktop\\Clean Data\\RATProject\\True\\Core\\ConfigManager.cs",
+              "RelativeToolTip": "Core\\ConfigManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T10:10:10.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\feloe\\Desktop\\Clean Data\\RATProject\\True\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\feloe\\Desktop\\Clean Data\\RATProject\\True\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA2wC4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T10:09:23.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientRegistrar.cs",
+              "DocumentMoniker": "C:\\Users\\feloe\\Desktop\\Clean Data\\RATProject\\True\\ClientRegistrar.cs",
+              "RelativeDocumentMoniker": "ClientRegistrar.cs",
+              "ToolTip": "C:\\Users\\feloe\\Desktop\\Clean Data\\RATProject\\True\\ClientRegistrar.cs",
+              "RelativeToolTip": "ClientRegistrar.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAywEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T10:09:38.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\feloe\\Desktop\\Clean Data\\RATProject\\True\\Core\\Logger.cs",
+              "RelativeDocumentMoniker": "Core\\Logger.cs",
+              "ToolTip": "C:\\Users\\feloe\\Desktop\\Clean Data\\RATProject\\True\\Core\\Logger.cs",
+              "RelativeToolTip": "Core\\Logger.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA2wDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T10:10:19.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommandDispatcher.cs",
+              "DocumentMoniker": "C:\\Users\\feloe\\Desktop\\Clean Data\\RATProject\\True\\Core\\CommandDispatcher.cs",
+              "RelativeDocumentMoniker": "Core\\CommandDispatcher.cs",
+              "ToolTip": "C:\\Users\\feloe\\Desktop\\Clean Data\\RATProject\\True\\Core\\CommandDispatcher.cs",
+              "RelativeToolTip": "Core\\CommandDispatcher.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAIwCsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T10:09:50.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileExplorer.cs",
+              "DocumentMoniker": "C:\\Users\\feloe\\Desktop\\Clean Data\\RATProject\\True\\Features\\FileExplorer.cs",
+              "RelativeDocumentMoniker": "Features\\FileExplorer.cs",
+              "ToolTip": "C:\\Users\\feloe\\Desktop\\Clean Data\\RATProject\\True\\Features\\FileExplorer.cs",
+              "RelativeToolTip": "Features\\FileExplorer.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T20:09:01.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Keylogger.cs",
+              "DocumentMoniker": "C:\\Users\\feloe\\Desktop\\Clean Data\\RATProject\\True\\Features\\Keylogger.cs",
+              "RelativeDocumentMoniker": "Features\\Keylogger.cs",
+              "ToolTip": "C:\\Users\\feloe\\Desktop\\Clean Data\\RATProject\\True\\Features\\Keylogger.cs",
+              "RelativeToolTip": "Features\\Keylogger.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAAwO8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T20:09:10.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stealer.cs",
+              "DocumentMoniker": "C:\\Users\\feloe\\Desktop\\Clean Data\\RATProject\\True\\Features\\Stealer.cs",
+              "RelativeDocumentMoniker": "Features\\Stealer.cs",
+              "ToolTip": "C:\\Users\\feloe\\Desktop\\Clean Data\\RATProject\\True\\Features\\Stealer.cs",
+              "RelativeToolTip": "Features\\Stealer.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAA2wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T20:09:48.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SystemInfoReporter.cs",
+              "DocumentMoniker": "C:\\Users\\feloe\\Desktop\\Clean Data\\RATProject\\True\\Features\\SystemInfoReporter.cs",
+              "RelativeDocumentMoniker": "Features\\SystemInfoReporter.cs",
+              "ToolTip": "C:\\Users\\feloe\\Desktop\\Clean Data\\RATProject\\True\\Features\\SystemInfoReporter.cs",
+              "RelativeToolTip": "Features\\SystemInfoReporter.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA2wBYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T17:51:58.009Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

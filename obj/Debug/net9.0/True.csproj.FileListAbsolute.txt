@@ -1,0 +1,14 @@
+C:\Users\feloe\Desktop\Clean Folder\RATProject\True\bin\Debug\net9.0\True.exe
+C:\Users\feloe\Desktop\Clean Folder\RATProject\True\bin\Debug\net9.0\True.deps.json
+C:\Users\feloe\Desktop\Clean Folder\RATProject\True\bin\Debug\net9.0\True.runtimeconfig.json
+C:\Users\feloe\Desktop\Clean Folder\RATProject\True\bin\Debug\net9.0\True.dll
+C:\Users\feloe\Desktop\Clean Folder\RATProject\True\bin\Debug\net9.0\True.pdb
+C:\Users\feloe\Desktop\Clean Folder\RATProject\True\obj\Debug\net9.0\True.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feloe\Desktop\Clean Folder\RATProject\True\obj\Debug\net9.0\True.AssemblyInfoInputs.cache
+C:\Users\feloe\Desktop\Clean Folder\RATProject\True\obj\Debug\net9.0\True.AssemblyInfo.cs
+C:\Users\feloe\Desktop\Clean Folder\RATProject\True\obj\Debug\net9.0\True.csproj.CoreCompileInputs.cache
+C:\Users\feloe\Desktop\Clean Folder\RATProject\True\obj\Debug\net9.0\True.dll
+C:\Users\feloe\Desktop\Clean Folder\RATProject\True\obj\Debug\net9.0\refint\True.dll
+C:\Users\feloe\Desktop\Clean Folder\RATProject\True\obj\Debug\net9.0\True.pdb
+C:\Users\feloe\Desktop\Clean Folder\RATProject\True\obj\Debug\net9.0\True.genruntimeconfig.cache
+C:\Users\feloe\Desktop\Clean Folder\RATProject\True\obj\Debug\net9.0\ref\True.dll

